@@ -1,6 +1,9 @@
 # docker-kaldi-gstreamer-server
 Dockerfile for [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server).
 
+# Modified for Aspire chain model build
+See [examples/practical-example](examples/practical-example) README.
+
 Synopsis
 --------
 

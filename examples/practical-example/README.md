@@ -1,3 +1,8 @@
+# Building the Aspire Model
+* [Do these things to fetch, prepare and test the model](https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/)
+* Copy directory `exp/tdnn_7b_chain_online` to here.
+* Build this docker image.
+
 # Working example with single docker file
 This docker file automates the process described in the practial end to end example.
 It is purely meant for creating a basic test system very quickly.
