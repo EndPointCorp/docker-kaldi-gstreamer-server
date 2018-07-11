@@ -17,7 +17,7 @@ docker build -t docker-kaldi-gstreamer-example:latest .
 
 ## Run the docker image:
 ```
-docker run -itd -p 8080:80 --shm-size=256m  docker-kaldi-gstreamer-example:latest 
+docker run -it -p 8080:80 --shm-size=256m  docker-kaldi-gstreamer-example:latest 
 
 ```
 
